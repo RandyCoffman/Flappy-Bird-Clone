@@ -1,0 +1,10 @@
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\bin\Debug\FlappyBirdClone.exe.config
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\bin\Debug\FlappyBirdClone.exe
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\bin\Debug\FlappyBirdClone.pdb
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.csprojAssemblyReference.cache
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.Form1.resources
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.Properties.Resources.resources
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.csproj.GenerateResource.cache
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.csproj.CoreCompileInputs.cache
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.exe
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.pdb

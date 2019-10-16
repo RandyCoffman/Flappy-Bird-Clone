@@ -1,0 +1,10 @@
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\bin\Release\FlappyBirdClone.exe
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\bin\Release\FlappyBirdClone.exe.config
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Release\FlappyBirdClone.Form1.resources
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Release\FlappyBirdClone.Properties.Resources.resources
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Release\FlappyBirdClone.csproj.GenerateResource.cache
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Release\FlappyBirdClone.csproj.CoreCompileInputs.cache
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Release\FlappyBirdClone.exe
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Release\FlappyBirdClone.pdb
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\bin\Release\FlappyBirdClone.pdb
+C:\Users\Scott\source\repos\FlappyBirdClone\FlappyBirdClone\obj\Release\FlappyBirdClone.csprojAssemblyReference.cache
